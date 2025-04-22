@@ -1,7 +1,7 @@
 # AluraStoreBR 📊🛍️  
 ### Desafio de Análise de Dados — Oracle Next Education | Formação em Data Science
 
-Este projeto é parte de um desafio proposto pela [Alura](https://www.alura.com.br) no programa **Oracle Next Education (ONE)**, com foco no desenvolvimento de habilidades em **análise de dados com Python**. O objetivo principal é analisar dados de desempenho de quatro lojas fictícias da Alura Store, identificando padrões, pontos fortes e fracos, e sugerindo decisões estratégicas com base nos insights obtidos.
+Este projeto é parte de um desafio proposto pela [Alura](https://www.alura.com.br) no programa **Oracle Next Education (ONE)**, com foco no desenvolvimento de habilidades em **análise de dados com Python**. O objetivo principal é analisar dados de desempenho de quatro lojas fictícias da Alura Store, identificando padrões, pontos fortes e fracos, e sugerindo decisões estratégicas com base nos insights obtidos para concluir qual delas deve ser vendida para que o personagem Senhor João abra um novo empreendimento.
 
 ---
 
