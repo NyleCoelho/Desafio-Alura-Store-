@@ -41,7 +41,7 @@ Ao final da análise, é feita uma recomendação estratégica sobre a viabilida
 
 ## 📍 Conclusão
 
-Com base nos dados analisados, concluiu-se que a **Loja 4 apresenta o pior desempenho geral** em termos de faturamento, avaliações e diferenciais competitivos. Dessa forma, **foi recomendada sua venda**, permitindo o redirecionamento de recursos para lojas com maior potencial de crescimento e rentabilidade.
+Com base nos dados analisados, concluiu-se que a **Loja 4 apresenta o pior desempenho geral** em termos de faturamento, avaliações e diferenciais competitivos. Dessa forma, **foi recomendada sua venda**, permitindo o redirecionamento de recursos para um novo empreendimento.
 
 ---
 
