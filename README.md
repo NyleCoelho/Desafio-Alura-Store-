@@ -24,8 +24,7 @@ Ao final da análise, é feita uma recomendação estratégica sobre a viabilida
 - Python 3.10+
 - Pandas
 - Matplotlib
-- Seaborn
-- Jupyter Notebook
+- Google Colab
 
 ---
 
@@ -58,10 +57,22 @@ Ao final da análise, é feita uma recomendação estratégica sobre a viabilida
 
 
 
-
 ## 📍 Conclusão
 
 Com base nos dados analisados, concluiu-se que a **Loja 4 apresenta o pior desempenho geral** em termos de faturamento, avaliações e diferenciais competitivos. Dessa forma, **foi recomendada sua venda**, permitindo o redirecionamento de recursos para um novo empreendimento.
+
+---
+
+## 🚀 Como Executar no Google Colab
+
+Para visualizar e executar este notebook no Google Colab, siga os passos abaixo:
+
+1. Acesse o [Google Colab](https://colab.research.google.com/).
+2. Clique em **"Arquivo" > "Carregar notebook"**.
+3. Vá até a aba **"Upload"** e selecione o arquivo `AluraStore.ipynb` do seu computador.
+4. Após o upload, o notebook será aberto em uma nova aba do Colab.
+5. Clique em **"Executar tudo"** (`Ctrl + F9` ou `Ambiente de execução > Executar tudo`) para rodar todas as células.
+6. Caso alguma biblioteca não esteja instalada, use o comando `!pip install nome-da-biblioteca` na primeira célula do notebook.
 
 ---
 
@@ -70,8 +81,6 @@ Com base nos dados analisados, concluiu-se que a **Loja 4 apresenta o pior desem
 Este projeto foi desenvolvido por **Barbara**, estudante da formação em Data Science pela Alura no programa **Oracle Next Education (ONE)**.
 
 ---
-
-
 
 
 ## 📚 Créditos
